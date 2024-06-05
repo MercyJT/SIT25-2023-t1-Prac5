@@ -1,5 +1,5 @@
-# SIT25-2023-t1-Prac4
-## Serving data through REST API’s
+# SIT25-2023-t1-Prac5
+## MVC Structure and connecting to MongoDB
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ Follow these steps to get the server up and running on your local machine.
 
 1. Clone the repository or download the source code.
     ```bash
-    git clone https://github.com/MercyJT/SIT25-2023-t1-Prac4.git
+    git clone https://github.com/MercyJT/SIT25-2023-t1-Prac5.git
     ```
 2. Open a terminal and navigate to the project directory.
 3. Install the dependencies:
