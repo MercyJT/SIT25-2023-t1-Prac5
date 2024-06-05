@@ -1,0 +1,27 @@
+{
+  "name": "sit25-2023-t1-prac5",
+  "version": "1.0.0",
+  "description": "MVC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MercyJT/SIT25-2023-t1-Prac5.git"
+  },
+  "keywords": [
+    "mvc"
+  ],
+  "author": "Mercyline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MercyJT/SIT25-2023-t1-Prac5/issues"
+  },
+  "homepage": "https://github.com/MercyJT/SIT25-2023-t1-Prac5#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
+  }
+}
